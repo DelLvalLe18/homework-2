@@ -6,15 +6,13 @@ body{
     background-color: #4070f4;
     height:100vh;
     display:flex;
-    align-item:center;
+    align-items: center;
     justify-content:center;
 }
 form{
     background-color: white;
     width: 300px;
     display: block;
-    margin: 0 auto;
-    margin-top: 300px;
     text-align: center;
     height: 330px;
     border-radius: 10px;
@@ -24,7 +22,6 @@ form{
     width: 300px;
     display: block;
     margin: 0 auto;
-    margin-top: 300px;
     text-align: center;
     height: 360px;
     border-radius: 10px;  
