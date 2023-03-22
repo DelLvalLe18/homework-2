@@ -4,6 +4,10 @@
 }
 body{
     background-color: #4070f4;
+    height:100vh;
+    display:flex;
+    align-item:center;
+    justify-content:center;
 }
 form{
     background-color: white;
