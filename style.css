@@ -37,6 +37,10 @@ button{
     margin-top: 10px;
 
 }
+#google{
+    background-color: white;
+    color: black;
+}
 button:hover{
     background-color: black;
 }
