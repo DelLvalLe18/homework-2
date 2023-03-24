@@ -14,7 +14,6 @@ form{
     width: 300px;
     display: block;
     text-align: center;
-    height: 330px;
     border-radius: 10px;
 }
 .signup{
@@ -23,7 +22,6 @@ form{
     display: block;
     margin: 0 auto;
     text-align: center;
-    height: 330px;
     border-radius: 10px;  
 }
 button{
